@@ -1,0 +1,42 @@
+[
+    {
+        "_id": 1,
+        "gender": "male",
+        "name": "Celina Carson",
+        "contact": "+1 (866) 490-3172",
+        "address": "768 Kay Court, Whitmer, Tennessee, 1061",
+        "photoUrl": "http://placehold.it/32x32"
+    },
+    {
+        "_id": 2,
+        "gender": "female",
+        "name": "Lynn Douglas",
+        "contact": "+1 (963) 593-2904",
+        "address": "949 Verona Place, Osmond, Connecticut, 1717",
+        "photoUrl": "http://placehold.it/32x32"
+    },
+    {
+        "_id": 3,
+        "gender": "male",
+        "name": "Diann Ortega",
+        "contact": "+1 (805) 528-3035",
+        "address": "798 Miller Avenue, Stewart, Idaho, 3914",
+        "photoUrl": "http://placehold.it/32x32"
+    },
+    {
+        "_id": 4,
+        "gender": "female",
+        "name": "Weiss Norris",
+        "contact": "+1 (840) 520-2485",
+        "address": "592 Stryker Street, Cade, Vermont, 5926",
+        "photoUrl": "http://placehold.it/32x32"
+    },
+    {
+        "_id": 5,
+        "gender": "male",
+        "name": "Corrine Vega",
+        "contact": "+1 (963) 589-2921",
+        "address": "314 Ridgewood Avenue, Manila, Rhode Island, 9794",
+        "photoUrl": "http://placehold.it/32x32"
+    }
+]
